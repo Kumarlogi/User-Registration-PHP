@@ -16,5 +16,5 @@
   # Google Hosted Libraries
     https://developers.google.com/speed/libraries
     
-  # A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES     
+  # A beautiful, responsive, customizable, accessible replacement for JavaScript's popup boxes     
     https://sweetalert2.github.io/
